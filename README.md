@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jessi
-- 🌱 I’m current second year computer science student
+- 🌱 I’m a current second year computer science student
 - 📫 How to reach me anqi.jin@kcl.ac.uk
 
 <!---
